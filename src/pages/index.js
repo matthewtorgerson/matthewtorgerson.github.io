@@ -5,7 +5,7 @@ import Layout from "../components/Layout";
 export default function IndexPage() {
   return (
     <Layout>
-      <h1>matthewtorgerson</h1>
+      <h1>Matthew Torgerson</h1>
     </Layout>
   );
 }
